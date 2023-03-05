@@ -1,4 +1,4 @@
-# Otherworldly-Perspectives
+# Otherworldly Perspectives
 Otherworldly Perspectives: Exploring Future Ecologies Through Multi-Species Design
 
 This course offers students the opportunity to delve into the world of multi-species design and explore the concept of future ecologies. Through the use of physical computing and tangible interaction with Arduino, students will gain knowledge of programming structures, interaction, and prototyping with technology. The course will cover theoretical concepts and practical exercises that enable students to understand how electronics and design can come together to create engines of imagination, thinking tools, and design machines. By using sensors and actuators, students will be able to experiment with increasingly complex exercises and bring their ideas to life, tapping into the potential of computational energy to create new forms of creative energy.
